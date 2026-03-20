@@ -1,0 +1,14 @@
+﻿Analyzing reel_clone...                                         
+
+   info - Don't invoke 'print' in production code - lib\core\services\video_cache_manager.dart:26:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\video_cache_manager.dart:28:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\core\services\video_cache_manager.dart:31:7 - avoid_print
+   info - Parameter 'key' could be a super parameter - lib\features\reels\presentation\pages\reels_screen.dart:8:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\features\reels\presentation\widgets\reel_ui_overlay.dart:7:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\features\reels\presentation\widgets\reel_video_item.dart:12:9 - use_super_parameters
+   info - Don't invoke 'print' in production code - lib\features\reels\presentation\widgets\reel_video_item.dart:55:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\reels\presentation\widgets\reel_video_item.dart:58:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\reels\presentation\widgets\reel_video_item.dart:81:7 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reels\presentation\widgets\reel_video_item.dart:143:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reels\presentation\widgets\reel_video_item.dart:160:37 - deprecated_member_use
+

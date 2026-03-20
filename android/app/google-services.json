@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "150520404956",
+    "firebase_url": "https://filmload-c1064.firebaseio.com",
+    "project_id": "filmload-c1064",
+    "storage_bucket": "filmload-c1064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150520404956:android:10d45d56673fd990afcd19",
+        "android_client_info": {
+          "package_name": "com.examp.looklayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150520404956-ae81i5nnnv6aoqobrur68557jgrni2ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examp.looklayout",
+            "certificate_hash": "e91ce4c79432ad6edb3313a4f298ad197646244c"
+          }
+        },
+        {
+          "client_id": "150520404956-s0hgg4bofi9q2521dssdpf3iqk1jd7l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examp.looklayout",
+            "certificate_hash": "c75467c69de00dd013da7317f1cea5a3672f2914"
+          }
+        },
+        {
+          "client_id": "150520404956-sut8vmihrpdkt19bh5pnb27rqh1dni57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTpMiok_0eTJNL4Jid0IpmhEtxCy0wYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150520404956-4lc1iq8enkm4m7h8efr16qqmodqpsi62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150520404956-4kuf99eni2lgrdmkqs4qhgpvhdk0dsqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pj.filmload"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150520404956:android:c0b21f112ba43378afcd19",
+        "android_client_info": {
+          "package_name": "com.example.reel_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150520404956-sut8vmihrpdkt19bh5pnb27rqh1dni57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTpMiok_0eTJNL4Jid0IpmhEtxCy0wYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150520404956-4lc1iq8enkm4m7h8efr16qqmodqpsi62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150520404956-4kuf99eni2lgrdmkqs4qhgpvhdk0dsqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pj.filmload"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150520404956:android:8a3850e82f2da37fafcd19",
+        "android_client_info": {
+          "package_name": "com.pj.filmload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150520404956-sut8vmihrpdkt19bh5pnb27rqh1dni57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTpMiok_0eTJNL4Jid0IpmhEtxCy0wYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150520404956-4lc1iq8enkm4m7h8efr16qqmodqpsi62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150520404956-4kuf99eni2lgrdmkqs4qhgpvhdk0dsqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pj.filmload"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
